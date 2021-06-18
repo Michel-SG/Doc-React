@@ -1,0 +1,16 @@
+h1 {
+    margin: 0px;
+}
+
+.App {
+    text-align: center;
+}
+
+.hlist {
+    display: flex;
+    list-style-type: none;
+}
+
+.hlist .item {
+    flex: 1;
+}

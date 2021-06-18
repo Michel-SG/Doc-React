@@ -1,0 +1,16 @@
+.navigation li {
+    font-size: 1.2em;
+    display: flex;
+    align-items: center;
+}
+
+.navigation a {
+    margin-bottom: 10px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+.navigation a:hover {
+    background-color: white;
+    color: #494949;
+}

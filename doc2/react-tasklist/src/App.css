@@ -1,0 +1,11 @@
+.App {
+    margin: 15px;
+}
+
+.tasklist {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 2px;
+    background-color: #61dafb;
+}
